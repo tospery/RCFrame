@@ -1,0 +1,6 @@
+framework module RCFrame {
+  umbrella header "RCFrame-umbrella.h"
+
+  export *
+  module * { export * }
+}
